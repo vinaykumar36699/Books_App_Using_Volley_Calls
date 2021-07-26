@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BookS</string>
+    <string name="GET_BOOKS">పుస్తకాలు పొందండి</string>
+    <string name="Permissions">అనుమతులు</string>
+    <string name="mic_permission">మైక్ అనుమతి</string>
+    <string name="camera_permission">కెమెరా అనుమతి</string>
+
+</resources>

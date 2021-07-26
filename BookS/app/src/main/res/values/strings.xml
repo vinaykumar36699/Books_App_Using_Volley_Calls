@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookS</string>
+    <string name="GET_BOOKS">Get Books</string>
+    <string name="Permissions">Permissions</string>
+    <string name="mic_permission">MIC PERMISSION</string>
+    <string name="camera_permission">CAMERA PERMISSION</string>
+
+</resources>
